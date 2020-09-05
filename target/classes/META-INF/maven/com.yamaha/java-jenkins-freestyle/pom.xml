@@ -3,4 +3,7 @@
   <groupId>com.yamaha</groupId>
   <artifactId>java-jenkins-freestyle</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <build>
+  	<finalName>java-jenkins-freestyle</finalName>
+  </build>
 </project>
