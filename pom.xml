@@ -32,4 +32,7 @@
 			<type>maven-plugin</type>
 		</dependency>
 	</dependencies>
+	<build>
+		<finalName>java-jenkins-freestyle</finalName>
+	</build>
 </project>
